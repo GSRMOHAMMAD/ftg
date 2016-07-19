@@ -170,7 +170,7 @@ return {
     "!plugins disable [plugin] chat: disable plugin only this chat.",
     "!plugins reload: reloads all plugins." },
   patterns = {
-    "^[/!#]pln$",
+    "^[/!#]plist$",
     "^[/#!]pn? (+) ([%w_%.%-]+)$",
     "^[/#!]pn? (-) ([%w_%.%-]+)$",
     "^[/#!]pn? (+) ([%w_%.%-]+) (supergroup)",
